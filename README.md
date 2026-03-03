@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alibujumnw
-- 👀 I’m interested in cyber security, digital Forensic and programming
-- 💞️ I’m looking to collaborate on malware research, penetration testing
+- 👀 I’m interested in cyber security, and programming
+- 💞️ I’m looking to collaborate in system development, and penetration testing
 - 📫 to reach me contact me via email at alimanyawi@gmail.com
 
 <!---
